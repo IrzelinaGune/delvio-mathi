@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: yellow;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: 27px;
+    color: yellow;
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.nav-bar > .menu-list {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.nav-bar > .menu-list li {
+    display: inline-block;
+    margin: 0 100px;
+}
